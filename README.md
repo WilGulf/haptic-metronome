@@ -1,10 +1,17 @@
-# Haptic Metronome
-<span style="font-size: 150%;">A clean, tactile metronome for your wrist.<br>
-Designed to let you practice a instrument without breaking focus or sound.
-</span>
+<div align="center">
+  <img src="icon.png" alt="icon" width="80"/>
 
-<img src="preview.png" alt="preview" width="300"/>
+  <h1>Haptic Metronome</h1>
 
+  <p>A clean, tactile metronome for your wrist.<br>
+  Designed to let you practice an instrument without breaking focus or sound.</p>
+</div>
+
+<div align="center">
+  <img src="preview.png" alt="preview" width="300"/>
+</div>
+
+---
 ## Features
 1. Adjustable tempo, 40 - 240BPM.
 2. Taps the tempo right on your wrist using the haptic motors.
