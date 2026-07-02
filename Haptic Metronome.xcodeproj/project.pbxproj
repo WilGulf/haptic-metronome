@@ -460,6 +460,7 @@
 				DEVELOPMENT_TEAM = KJJ898352J;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Haptic-Metronome-Watch-App-Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "Haptic Metronome";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				INFOPLIST_KEY_WKWatchOnly = YES;
@@ -494,6 +495,7 @@
 				DEVELOPMENT_TEAM = KJJ898352J;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Haptic-Metronome-Watch-App-Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "Haptic Metronome";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				INFOPLIST_KEY_WKWatchOnly = YES;
