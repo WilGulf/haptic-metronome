@@ -1,4 +1,4 @@
 # Haptic Metronome
 A clean, tactile metronome for your wrist.
 
-![](preview.gif)
+<img src="preview.gif" alt="Preview">
